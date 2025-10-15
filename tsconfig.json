@@ -1,27 +1,53 @@
 {
   "compilerOptions": {
-    "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    /* === Core Language Features === */
+    "target": "ESNext",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
+    "forceConsistentCasingInFileNames": true,
     "noEmit": true,
+    /* === Module Resolution === */
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
     "esModuleInterop": true,
-    "module": "esnext",
-    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    /* === React / JSX === */
     "jsx": "preserve",
+    "isolatedModules": true,
     "incremental": true,
+    /* === Paths and Aliases === */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    /* === Type Checking Relaxations === */
+    "noImplicitAny": false,
     "plugins": [
       {
         "name": "next"
       }
-    ],
-    "paths": {
-      "@/*": ["./src/*"]
-    }
+    ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  /* === Files to Include / Exclude === */
+  "include": [
+    "**/*.cjs",
+    "**/*.json",
+    "**/*.mjs",
+    "**/*.ts",
+    "**/*.tsx",
+    "next-env.d.ts",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "AUR-BLK": [
+    {"date":"2025-10-07","shipments":25,"avg_cost_per_ton":78,"avg_lead_days":3.2,"on_time_rate":0.90},
+    {"date":"2025-10-08","shipments":22,"avg_cost_per_ton":79,"avg_lead_days":3.3,"on_time_rate":0.91},
+    {"date":"2025-10-09","shipments":24,"avg_cost_per_ton":78,"avg_lead_days":3.2,"on_time_rate":0.91},
+    {"date":"2025-10-10","shipments":21,"avg_cost_per_ton":77,"avg_lead_days":3.1,"on_time_rate":0.92},
+    {"date":"2025-10-11","shipments":23,"avg_cost_per_ton":78,"avg_lead_days":3.2,"on_time_rate":0.89},
+    {"date":"2025-10-12","shipments":19,"avg_cost_per_ton":79,"avg_lead_days":3.3,"on_time_rate":0.88},
+    {"date":"2025-10-13","shipments":26,"avg_cost_per_ton":78,"avg_lead_days":3.2,"on_time_rate":0.90}
+  ],
+  "HWD-RIV": [
+    {"date":"2025-10-07","shipments":12,"avg_cost_per_ton":104,"avg_lead_days":4.9,"on_time_rate":0.87},
+    {"date":"2025-10-08","shipments":11,"avg_cost_per_ton":103,"avg_lead_days":4.8,"on_time_rate":0.88},
+    {"date":"2025-10-09","shipments":10,"avg_cost_per_ton":103,"avg_lead_days":4.7,"on_time_rate":0.88},
+    {"date":"2025-10-10","shipments":9,"avg_cost_per_ton":102,"avg_lead_days":4.9,"on_time_rate":0.86},
+    {"date":"2025-10-11","shipments":10,"avg_cost_per_ton":103,"avg_lead_days":4.8,"on_time_rate":0.87},
+    {"date":"2025-10-12","shipments":8,"avg_cost_per_ton":104,"avg_lead_days":4.9,"on_time_rate":0.85},
+    {"date":"2025-10-13","shipments":13,"avg_cost_per_ton":103,"avg_lead_days":4.8,"on_time_rate":0.89}
+  ],
+  "MIR-LAK": [
+    {"date":"2025-10-07","shipments":31,"avg_cost_per_ton":66,"avg_lead_days":2.1,"on_time_rate":0.84},
+    {"date":"2025-10-08","shipments":33,"avg_cost_per_ton":66,"avg_lead_days":2.0,"on_time_rate":0.85},
+    {"date":"2025-10-09","shipments":35,"avg_cost_per_ton":65,"avg_lead_days":2.0,"on_time_rate":0.85},
+    {"date":"2025-10-10","shipments":30,"avg_cost_per_ton":65,"avg_lead_days":2.2,"on_time_rate":0.84},
+    {"date":"2025-10-11","shipments":28,"avg_cost_per_ton":66,"avg_lead_days":2.1,"on_time_rate":0.83},
+    {"date":"2025-10-12","shipments":27,"avg_cost_per_ton":67,"avg_lead_days":2.2,"on_time_rate":0.82},
+    {"date":"2025-10-13","shipments":34,"avg_cost_per_ton":66,"avg_lead_days":2.1,"on_time_rate":0.85}
+  ],
+  "LEN-GLN": [
+    {"date":"2025-10-07","shipments":14,"avg_cost_per_ton":98,"avg_lead_days":4.2,"on_time_rate":0.88},
+    {"date":"2025-10-08","shipments":13,"avg_cost_per_ton":97,"avg_lead_days":4.3,"on_time_rate":0.88},
+    {"date":"2025-10-09","shipments":12,"avg_cost_per_ton":97,"avg_lead_days":4.3,"on_time_rate":0.87},
+    {"date":"2025-10-10","shipments":13,"avg_cost_per_ton":96,"avg_lead_days":4.4,"on_time_rate":0.87},
+    {"date":"2025-10-11","shipments":11,"avg_cost_per_ton":97,"avg_lead_days":4.3,"on_time_rate":0.86},
+    {"date":"2025-10-12","shipments":10,"avg_cost_per_ton":98,"avg_lead_days":4.2,"on_time_rate":0.85},
+    {"date":"2025-10-13","shipments":15,"avg_cost_per_ton":97,"avg_lead_days":4.3,"on_time_rate":0.88}
+  ]
+}

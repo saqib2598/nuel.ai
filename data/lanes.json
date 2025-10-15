@@ -1,0 +1,12 @@
+[
+  {"id":"AUR-BLK","origin":"Aurora, CO","destination":"Blakeville, TX","cost_per_ton":78,"volume_tons":3400,"lead_days":3.2,"reliability":0.91,"mode":"Truck"},
+  {"id":"HWD-RIV","origin":"Howard, IA","destination":"Riverside, CA","cost_per_ton":103,"volume_tons":1500,"lead_days":4.8,"reliability":0.88,"mode":"Rail"},
+  {"id":"LEN-GLN","origin":"Lennox, NV","destination":"Glenmont, NY","cost_per_ton":97,"volume_tons":1700,"lead_days":4.3,"reliability":0.89,"mode":"Rail"},
+  {"id":"DOV-SUN","origin":"Dover, OH","destination":"Sunset, AZ","cost_per_ton":83,"volume_tons":2900,"lead_days":3.0,"reliability":0.87,"mode":"Truck"},
+  {"id":"RCH-HNT","origin":"Richfield, UT","destination":"Huntington, WV","cost_per_ton":91,"volume_tons":2450,"lead_days":3.6,"reliability":0.85,"mode":"Rail"},
+  {"id":"MIR-LAK","origin":"Miranda, FL","destination":"Lakeview, IL","cost_per_ton":66,"volume_tons":4200,"lead_days":2.1,"reliability":0.84,"mode":"Truck"},
+  {"id":"GLD-BRK","origin":"Goldford, KS","destination":"Brooklyn, NY","cost_per_ton":115,"volume_tons":1300,"lead_days":5.2,"reliability":0.90,"mode":"Rail"},
+  {"id":"PNT-MPL","origin":"Pinetown, NC","destination":"Mapleton, MA","cost_per_ton":72,"volume_tons":3100,"lead_days":2.8,"reliability":0.83,"mode":"Truck"},
+  {"id":"FRS-LYN","origin":"Fresbury, WA","destination":"Lynnbrook, NJ","cost_per_ton":88,"volume_tons":2700,"lead_days":3.4,"reliability":0.89,"mode":"Truck"},
+  {"id":"RND-CYN","origin":"Rindle, TN","destination":"Canyon, CO","cost_per_ton":95,"volume_tons":1850,"lead_days":4.0,"reliability":0.86,"mode":"Rail"}
+]
